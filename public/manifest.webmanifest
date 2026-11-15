@@ -1,0 +1,17 @@
+{
+  "name": "Rylics",
+  "short_name": "Rylics",
+  "description": "Your AI assistant with custom interchangeable characters and voices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10101c",
+  "theme_color": "#10101c",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
